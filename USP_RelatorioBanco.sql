@@ -37,7 +37,7 @@ SET @Mensagem = '<html>
     EXEC [dbo].[USP_StatusBases]
         @HtmlOutput2 = @HtmlContent2 OUTPUT;
 
-    EXEC [dbo].[VerificarJobsFalhosAnoPassado]
+    EXEC [dbo].[VerificarJobsFalhos]
         @HtmlOutput3 = @HtmlContent3 OUTPUT;
 
 
