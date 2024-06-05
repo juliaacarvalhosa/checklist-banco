@@ -87,7 +87,7 @@ ELSE
                 </tr>
             </table>
             <br></br>
-            <img src="F:\CIS\Logotipos\TCE-RJ\STI_CIS.png" width="40%">
+            <img src="caminho-para-imagem" width="40%">
         </body>
         </html>'
 
